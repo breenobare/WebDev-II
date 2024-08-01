@@ -9,7 +9,7 @@
 
 Click the link below to view the project:
 
-[View Project](https://raw.githack.com/breenobare/WebDev-II/main/Assighnment/index.html)
+<a href="https://raw.githack.com/breenobare/WebDev-II/main/Assighnment/index.html" target="_blank">View Project</a>
 
 ---
 
