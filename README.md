@@ -2,7 +2,7 @@
 
 **Name:** Breen Ogero Obare  
 **Reg. No:** SCT221-0990/2021  
-**Course:** Web Application Development II  
+**Unit:** Web Application Development II  
 **Assignment**
 
 ## Project Link
